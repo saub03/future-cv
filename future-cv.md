@@ -28,6 +28,27 @@
 
 ---
 
+## 기술 스택
+
+** Languages & Frameworks**
+- **Python**: `Pandas`, `Numpy`, `Pytorch`, `Matplotlib`, `Seaborn`, `Scipy`, `scikit-learn`, `statsmodels`, `XGBoost`, `CatBoost`, `LightGBM` 등 데이터 분석 라이브러리 사용에 익숙합니다.
+- **SQL**: 데이터 추출 및 정제, 쿼리 최적화를 할 수 있습니다.
+- **Java**: 하둡 기반 DW설계 및 데이터 병렬 처리 컴퓨팅 설계가 가능합니다.
+- **R**: 기초 통계 분석을 할 수 있습니다.
+  
+** Domain Knowledge**
+1. 앙상블 및 부스팅 메커니즘 (Ensemble & Boosting)
+- **원리의 심층 이해**: `XGBoost`, `LightGBM`, `CatBoost` 등 부스팅 알고리즘의 작동 원리 및 잔차 학습 메커니즘 이해하고 있습니다.
+- **Hyperparameter 최적화**: 파라미터 간의 트레이드 오프를 방지하여 최적의 성능을 이끌어낼 수 있습니다.
+- **정형 데이터 분석**: Kaggle Competition master로 데이터 분석 과정에 대한 이해도가 높습니다. 
+2. 딥러닝 (Deep Learning)
+- **기초 원리 구현**: Numpy만을 활용해 신경망, 오차역전파법(Backpropagation), CNN을 직접 구현하며 딥러닝 핵심 원리를 깊이 이해하고 있습니다.
+- **프레임워크 활용**: PyTorch를 이용해 딥러닝 모델을 설계하고 학습 과정을 자동화할 수 있습니다.
+3. 시계열 분석
+- **상관관계 분석**: 롤링 윈도우  여러 기법을 사용해 시계열 데이터의 다양한 분석이 가능합니다.
+- **모델링**: LSTM이나 RNN등 다양한 모델을 적절히 사용할 수 있습니다.   
+---
+
 ## 교육
 
 - 학사: **광운대학교** 정보융합학부 데이터사이언스학과 _2023.03 ~ 2029.02_
